@@ -1,5 +1,6 @@
-#include "Position.h"
 #pragma once
+
+#include "Position.h"
 
 #include "Enemy.h"
 #include "Item.h"
